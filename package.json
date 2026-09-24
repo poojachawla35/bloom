@@ -1,0 +1,15 @@
+{
+  "name": "bloom-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive Bloom dashboard prototype (light + dark theme), served by a zero-dependency Node.js static server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
